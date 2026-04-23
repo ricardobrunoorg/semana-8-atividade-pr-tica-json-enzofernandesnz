@@ -17,7 +17,7 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 <<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
 
-![Tela 1](public/img/média.png)
+![Tela 1](public/img/médias.png)
 
 <<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
 
