@@ -5,8 +5,8 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: enzo fernandes
+- Matricula: 908460
 
 ## Prints do console do navegador
 
